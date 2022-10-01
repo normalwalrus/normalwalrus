@@ -1,5 +1,5 @@
 ## Welcome! 👋
-### I am Ian Chan, aspiring Computer Engineer! 
+### I am Ian Chan, aspiring Software Engineer! 
 
 
 - :mortar_board: I'm currently studying at: Nanyang Technological University
